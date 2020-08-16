@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "401902516100",
+    "firebase_url": "https://basicauthentication-5371a.firebaseio.com",
+    "project_id": "basicauthentication-5371a",
+    "storage_bucket": "basicauthentication-5371a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401902516100:android:3a67ddd54b525ed9b8cfd1",
+        "android_client_info": {
+          "package_name": "com.example.basicauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401902516100-de5ps7m1cmu075ae5aln048j09ks714v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.basicauthentication",
+            "certificate_hash": "3d96646790f2ea4bad70369545755f25e1fe2a32"
+          }
+        },
+        {
+          "client_id": "401902516100-jo7sm2r4qij455ba0s8dn93pfkd8auj5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-6bb-sPkPkFKgjOXHQo0ahSv720SLLOQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401902516100-jo7sm2r4qij455ba0s8dn93pfkd8auj5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
